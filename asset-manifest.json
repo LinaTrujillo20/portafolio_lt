@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/LinaTrujillo20/portafolio_lt.git/static/css/main.4e9cc15e.css",
+    "main.js": "/LinaTrujillo20/portafolio_lt.git/static/js/main.809474d3.js",
+    "static/media/imagen-home.jpg": "/LinaTrujillo20/portafolio_lt.git/static/media/imagen-home.6309b4797746b49c6048.jpg",
+    "index.html": "/LinaTrujillo20/portafolio_lt.git/index.html",
+    "main.4e9cc15e.css.map": "/LinaTrujillo20/portafolio_lt.git/static/css/main.4e9cc15e.css.map",
+    "main.809474d3.js.map": "/LinaTrujillo20/portafolio_lt.git/static/js/main.809474d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e9cc15e.css",
+    "static/js/main.809474d3.js"
+  ]
+}
