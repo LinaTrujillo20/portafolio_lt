@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Animalandiareact.git/static/css/main.55fb7229.css",
-    "main.js": "/Animalandiareact.git/static/js/main.78f4d8cf.js",
-    "static/media/fondo.jpg": "/Animalandiareact.git/static/media/fondo.6732ce654ea91f975480.jpg",
-    "static/media/logo.jpg": "/Animalandiareact.git/static/media/logo.8bba2df5f8edc1228c76.jpg",
-    "index.html": "/Animalandiareact.git/index.html",
-    "main.55fb7229.css.map": "/Animalandiareact.git/static/css/main.55fb7229.css.map",
-    "main.78f4d8cf.js.map": "/Animalandiareact.git/static/js/main.78f4d8cf.js.map"
+    "main.css": "/LinaTrujillo20/animalandiareact.git/static/css/main.97666d64.css",
+    "main.js": "/LinaTrujillo20/animalandiareact.git/static/js/main.3e2428db.js",
+    "static/media/fondo.jpg": "/LinaTrujillo20/animalandiareact.git/static/media/fondo.6732ce654ea91f975480.jpg",
+    "static/media/logo.jpg": "/LinaTrujillo20/animalandiareact.git/static/media/logo.8bba2df5f8edc1228c76.jpg",
+    "index.html": "/LinaTrujillo20/animalandiareact.git/index.html",
+    "main.97666d64.css.map": "/LinaTrujillo20/animalandiareact.git/static/css/main.97666d64.css.map",
+    "main.3e2428db.js.map": "/LinaTrujillo20/animalandiareact.git/static/js/main.3e2428db.js.map"
   },
   "entrypoints": [
-    "static/css/main.55fb7229.css",
-    "static/js/main.78f4d8cf.js"
+    "static/css/main.97666d64.css",
+    "static/js/main.3e2428db.js"
   ]
 }
